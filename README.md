@@ -1,4 +1,9 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Adhang 
+
+[![Adhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhang&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Welcome to my GitHub repository!
 - My name is Adhang, I'm from Indonesia
 - I started getting to know Machine Learning when I was in college. Since then, I loves to explore Data Science and Machine Learning.
