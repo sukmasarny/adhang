@@ -5,11 +5,10 @@
 [![Adhang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Welcome to my GitHub repository!
-- My name is Adhang, I'm from Indonesia
-- I started getting to know Machine Learning when I was in college. Since then, I loves to explore Data Science and Machine Learning.
-- I used this platform as a place to share my projects and documentations
-- I'm not an expert yet, but I always have a big curiosity to learn more.
-- Right now, I'm still looking for an opportunity to work in the data field.
+- :basecamp: I'm from Indonesia
+- :electron: I love to explore **data science** and **machine learning**
+- :briefcase: I'm still looking for an opportunity to work in the data field
+- :four_leaf_clover: I love arts, especially photography
 
 Thank you for visiting my GitHub profile. Hope you have a nice day!
 
