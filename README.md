@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Adhang 
 
-[![Adhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhang&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Adhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhang&show_icons=true&hide=issues,contribs&title_color=0F4C75&icon_color=0F4C75&text_color=1B262C&bg_color=FFFEFE)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Adhang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Adhang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact&title_color=0F4C75&icon_color=0F4C75&text_color=1B262C&bg_color=FFFEFE)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Welcome to my GitHub repository!
 - :basecamp: I'm from Indonesia
