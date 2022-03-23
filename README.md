@@ -2,7 +2,7 @@
 
 [![Adhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhang&show_icons=true&hide=issues,contribs&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Adhang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA)](https://github.com/anuraghazra/github-readme-stats)
+[![Adhang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Welcome to my GitHub repository!
 - :basecamp: I'm from Indonesia
