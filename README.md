@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Adhang 
+## 👋 Hi, I'm Adhang 
 
 [![Adhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhang&show_icons=true&hide=issues,contribs&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA)](https://github.com/anuraghazra/github-readme-stats)
 
