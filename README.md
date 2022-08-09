@@ -7,7 +7,7 @@
 ### Welcome to my GitHub repository!
 - :basecamp: I'm from Indonesia
 - :electron: I love to explore **data science** and **machine learning**
-- :briefcase: I'm still looking for an opportunity to work in the data field
+- :briefcase: I'm a (new) part of Telkom Indonesia
 - :four_leaf_clover: I love arts, especially photography
 
 Thank you for visiting my GitHub profile. Hope you have a nice day!
